@@ -1,100 +1,17 @@
 # MERN Task Manager
 
-A MERN application for basic tasks management.
-![image](https://user-images.githubusercontent.com/86913048/227101123-f8a35258-9c21-4479-86e8-055659ab75e2.png)
+A Task_Manager MERN App
+# Home Page 
+<img width="1896" height="950" alt="Home_page_t" src="https://github.com/user-attachments/assets/a3656998-3145-4097-95b3-80b23e4cc801" />
+# Sign Up Page
+<img width="1873" height="879" alt="sign_up_t" src="https://github.com/user-attachments/assets/0ff740ea-74c9-4716-ac2e-6262937bbf3c" />
+# Login Page
+<img width="1910" height="879" alt="login_page_t" src="https://github.com/user-attachments/assets/e38cadf9-da18-436f-8ad8-187da91977da" />
+# Task Page
+<img width="1887" height="868" alt="add_task_t" src="https://github.com/user-attachments/assets/0beb8987-3cbe-4b8d-8946-8006bf43fc03" />
+# Add Task
+<img width="1889" height="879" alt="add_taskpage_t" src="https://github.com/user-attachments/assets/16506fa6-f2ac-48d9-8c09-0305c43d6db0" />
 
-## Table of Contents
-
-- [Features](#features)
-- [Tools and Technologies](#tools-and-technologies)
-- [Dependencies](#dependencies)
-- [Dev-dependencies](#dev-dependencies)
-- [Prerequisites](#prerequisites)
-- [Installation and setup](#installation-and-setup)
-- [Backend API](#backend-api)
-- [frontend pages](#frontend-pages)
-- [npm scripts](#npm-scripts)
-- [Useful Links](#useful-links)
-- [Contact](#contact)
-
-## Features
-
-### User-side features
-
-- Signup
-- Login
-- Logout
-- Add tasks
-- View tasks
-- Update tasks
-- Delete tasks
-
-### Developer-side features
-
-- Toasts for success and error messages
-- Form validations in frontend and backend
-- Fully Responsive Navbar
-- Token based Authentication
-- Use of 404 page for wrong urls
-- Relevant redirects
-- Global user state using Redux
-- Custom Loaders
-- Use of layout component for pages
-- Use of theme colors
-- No external CSS files needed (made using Tailwind CSS)
-- Usage of Tooltips
-- Dynamic document titles
-- Redirect to previous page after login
-- Use of various React hooks
-- Custom hook also used (useFetch)
-- Routes protection
-- Middleware for verifying the user in backend
-- Use of different HTTP status codes for sending responses
-- Standard pratices followed
-
-## Tools and Technologies
-
-- HTML
-- CSS
-- Javascript
-- Tailwind CSS
-- Node.js
-- Express.js
-- React
-- Redux
-- Mongodb
-
-## Dependencies
-
-Following are the major dependencies of the project:
-
-- axios
-- react
-- react-dom
-- react-redux
-- react-router-dom
-- react-toastify
-- redux
-- redux-thunk
-- bcrypt
-- cors
-- dotenv
-- express
-- jsonwebtoken
-- mongoose
-
-## Dev-dependencies
-
-Following are the major dev-dependencies of the project:
-
-- nodemon
-- concurrently
-
-## Prerequisites
-
-- Node.js must be installed on the system.
-- You should have a MongoDB database.
-- You should have a code editor (preferred: VS Code)
 
 ## Installation and Setup
 
@@ -104,7 +21,7 @@ Following are the major dev-dependencies of the project:
    npm run install-all
    ```
 
-2. Create a file named ".env" inside the backend folder. Add data from .env.example file and substitute your credentials there.
+2. Create a file named ".env" inside the backend folder. Add MONGODB_URL AND ACCESS_TOKEN.
 
 3. Start the application
 
@@ -158,36 +75,3 @@ Inside backend folder:
 - `npm run dev`: Starts backend using nodemon.
 - `npm start`: Starts backend without nodemon.
 
-## Useful Links
-
-- This project
-
-  - Github Repo: https://github.com/aayush301/MERN-task-manager
-
-- Official Docs
-
-  - Reactjs docs: https://reactjs.org/docs/getting-started.html
-  - npmjs docs: https://docs.npmjs.com/
-  - Mongodb docs: https://docs.mongodb.com/manual/introduction/
-  - Github docs: https://docs.github.com/en/get-started/quickstart/hello-world
-
-- Youtube tutorials
-
-  - Expressjs: https://youtu.be/L72fhGm1tfE
-  - React: https://youtu.be/EHTWMpD6S_0
-  - Redux: https://youtu.be/1oU_YGhT7ck
-
-- Download links
-
-  - Nodejs download: https://nodejs.org/
-  - VS Code download: https://code.visualstudio.com/
-
-- Cheatsheets
-  - Git cheatsheet: https://education.github.com/git-cheat-sheet-education.pdf
-  - VS Code keyboard shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
-  - CSS Selectors Cheatsheet: https://frontend30.com/css-selectors-cheatsheet/
-
-## Contact
-
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
