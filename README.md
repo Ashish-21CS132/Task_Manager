@@ -3,12 +3,16 @@
 A Task_Manager MERN App
 # Home Page 
 <img width="1896" height="950" alt="Home_page_t" src="https://github.com/user-attachments/assets/a3656998-3145-4097-95b3-80b23e4cc801" />
+
 # Sign Up Page
 <img width="1873" height="879" alt="sign_up_t" src="https://github.com/user-attachments/assets/0ff740ea-74c9-4716-ac2e-6262937bbf3c" />
+
 # Login Page
 <img width="1910" height="879" alt="login_page_t" src="https://github.com/user-attachments/assets/e38cadf9-da18-436f-8ad8-187da91977da" />
+
 # Task Page
 <img width="1887" height="868" alt="add_task_t" src="https://github.com/user-attachments/assets/0beb8987-3cbe-4b8d-8946-8006bf43fc03" />
+
 # Add Task
 <img width="1889" height="879" alt="add_taskpage_t" src="https://github.com/user-attachments/assets/16506fa6-f2ac-48d9-8c09-0305c43d6db0" />
 
